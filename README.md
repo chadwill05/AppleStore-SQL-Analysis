@@ -5,7 +5,7 @@ Link to dataset https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-se
 I was tasked with presenting data analysis on the Apple App Store. My Stakeholders are looking to create an app and want analysis on the current apple store on current well performing apps with good reviews. 
 After uploading the Apple store apps and their description into my sqlite Database, I performed basic EDA before jumping into the Data Analysis.
 
-I used https://sqliteonline.com/ to perfrom my Data Analysis with SQL
+I used https://sqliteonline.com/ to perform my Data Analysis with SQL
 
 **Questions looking to answer**
 1. Determine whether paid apps have higher ratings than free apps
